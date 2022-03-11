@@ -1,0 +1,5 @@
+
+file -> lines
+lines -> line | line lines
+line -> regex // uses default since not specifed
+lines -> regex ARROW ACTION

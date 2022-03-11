@@ -1,0 +1,4 @@
+
+__imp__GetEnvironmentVariableA@12
+__imp__CopyFileA@12 -> PushAndJump
+__imp__.+@\d+ -> PushAndJump
